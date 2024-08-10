@@ -1,0 +1,6 @@
+@Caso_Di_Studio_HostAddress = http://localhost:5123
+
+GET {{Caso_Di_Studio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
